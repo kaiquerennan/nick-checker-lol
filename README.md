@@ -1,4 +1,4 @@
-Send a GET request with values:
+Valores:
 
 conta = nickname
-region = region abbreviated (BR, NA, EUW, EUNE, JP, LAS, LAN, RU)..
+região = região abreviada (BR, NA, EUW, EUNE, JP, LAS, LAN, RU)..
