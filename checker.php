@@ -1,5 +1,5 @@
 <?php
-
+//testeee
 $nick = $_GET['conta'];
 $region = $_GET['region'];
 
